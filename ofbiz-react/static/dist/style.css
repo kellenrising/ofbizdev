@@ -1,0 +1,47 @@
+.ant-appBar {
+  width: 100%;
+  height: 64px;
+  background-color: #a24689;
+  color: #fff;
+}
+
+.ant-title {
+  padding: 0 16px 0 16px;
+  line-height: 64px;
+}
+.ant-panel {
+  width: 100%;
+  height: 80px;
+  border-bottom: 1px solid #a8a8a8;
+  padding: 8px 16px 8px 16px;
+  background-color: #fff;
+}
+
+.ant-search-input {
+  width: 100px;
+  margin-right: 8px;
+  transition: display 1s;
+}.ant-dashboard {
+  padding-top: 16px;
+}/*全局css样式*/
+
+body {
+  background-color: #ececec;
+}
+
+.ant-listItem {
+  height: 64px;
+  border-bottom: 1px solid #ececec;
+  padding: 8px;
+  background-color: #fff;
+}
+
+.ant-listItem-sub {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  margin-top: 4px;
+}
