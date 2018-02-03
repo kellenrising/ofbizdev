@@ -1,2 +1,2 @@
 # ofbizdev
-OFBiz Development Project
+OFBiz Development Project using React
